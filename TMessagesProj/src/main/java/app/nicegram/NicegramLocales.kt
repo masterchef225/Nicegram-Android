@@ -103,8 +103,6 @@ object NicegramLocales {
         "SaveOnAnnualPremiumTitle",
         "TelegramStars",
         "AccountFrozen1Text",
-        "UnlockPremiumEmojiHint",
-        "UnlockPremiumEmojiReaction",
         // endregion
     )
 
